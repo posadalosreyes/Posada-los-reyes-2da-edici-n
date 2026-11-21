@@ -1,6 +1,0 @@
-Pon aquí tu canción.
-
-El archivo tiene que llamarse exactamente:  cancion.mp3
-(todo en minúsculas, sin acento y con extensión .mp3)
-
-Puedes borrar este archivo LEEME.txt cuando pongas la canción.
